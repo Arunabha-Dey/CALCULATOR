@@ -1,5 +1,8 @@
 # CALCULATOR
-Opertations:
+**Programming Language Used:**
+  Python
+
+**Opertations That Can be Performed:**
   1. Addition
   2. Subtraction
   3. Multiplication
@@ -14,3 +17,5 @@ Opertations:
          a. square root
          b. lon
          c. power of
+         d. log
+         e. pi
