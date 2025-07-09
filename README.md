@@ -1,6 +1,13 @@
 # CALCULATOR
+**Software Used:** 
+  1. VS Code
+  
 **Programming Language Used:**
-  Python
+  1. Python
+  
+**Tools used:**
+  1. Math library (to perform mathematical operations)
+  2. Tkinter (standard Python interface for creating graphical user interfaces)
 
 **Opertations That Can be Performed:**
   1. Addition
